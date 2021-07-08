@@ -5,5 +5,9 @@ public class Test {
 		Test1 t=new Test1();
 		t.show();
 		System.out.println("Calling show metho from Test1..");
+		
+		Test1 t1=new Test1();
+		t1.eat();
+		System.out.println("Calling eat metho from Test1..");
 	}
 }

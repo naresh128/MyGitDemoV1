@@ -5,4 +5,10 @@ public class Test1 {
 		System.out.println("In show() method");
 
 	}
+	
+	public void eat() {
+
+		System.out.println("In eat() method.. Its created in Eclipse..");
+
+	}
 }
