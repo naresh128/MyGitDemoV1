@@ -5,4 +5,9 @@ public class Test1 {
 		System.out.println("In show() method");
 
 	}
+	public void disp() {
+
+		System.out.println("In disp() method");
+
+	}
 }
