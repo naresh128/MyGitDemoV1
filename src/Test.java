@@ -2,10 +2,8 @@
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("main Class../I am Naresh");
-		System.out.println("Added another logger..");
-		System.out.println("Making change in Github Remote itself..");
-		System.out.println("Making change before pulling from remote..");
-
+		Test1 t=new Test1();
+		t.show();
+		System.out.println("Calling show metho from Test1..");
 	}
 }
