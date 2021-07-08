@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("main Class../I am Naresh");
 		System.out.println("Added another logger..");
 		System.out.println("Making change in Github Remote itself..");
+		System.out.println("Creating deliberate Conflict..");
 	}
 }
